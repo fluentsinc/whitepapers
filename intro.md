@@ -6,7 +6,7 @@
 
 ### Now _**without further ado**_, let's get this started. The experiments repositories were created not for training purposes. They were originally intended to be a reference repository that helps you quickly remember the solution to a specific well-defined problem. And I believe that the experiments repositories still fulfill that purpose. 
 
-### The overall attitude of the pilots had changed significantly since we started, the experiments in the pilots are now more _**hands-on**_ than ever before. Because of this change, we created playground repositories that allows us to play around with the concepts in experiments repositories in a separate individual playground repository. For example, when learning the experiments in `pro-experiments`, the players now use the individual playground repository `adventurist` to document and execute all the experiments in `pro-experiments`. The below table shows the experiments-repositories and the playground-repositories associated with them: 
+### The overall attitude of the pilots had changed significantly since we started, the experiments in the pilots are now more _**hands-on**_ than ever before. Because of this change, we created playground repositories that allows us to play around with the concepts in experiments repositories in a separate individual playground repository. For instance, when learning the experiments in `pro-experiments`, the players now use the individual playground repository `adventurist` to document and execute all the experiments in `pro-experiments`. The below table shows the experiments-repositories and the playground-repositories associated with them: 
 
 
 experiments-repository | player's playground-repository 
@@ -16,3 +16,13 @@ experiments-repository | player's playground-repository
 `fluxion-experiments` | `fluxionist` 
 `why-experiments` | `pragmatist`
 `
+
+### Let's break down the above table to better understand the experiments-repositories and the playground-repositories. 
+
+### The `pro-experiments` contains technology related experiments. It contains valuable information about things that a software programmer would want to use.
+
+### The `art-experiments` contains graphic design related experiments. It contains valuable information about things that a graphic designer would want to use. 
+
+### The `fluxion-experiments` contains algorithms and data structures related experiments. It contains valuable information about things that a software developer would want to use. 
+
+### The `why-experiments` contains the whys of many computer science concepts. It contains valuable information about things that a computer scientist would want to use. 
